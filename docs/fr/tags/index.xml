@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OSS 2022</title>
+    <link>https://oss2022-opendz-org.github.io/fr/tags/</link>
+    <description>Recent content in Tags on OSS 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://oss2022-opendz-org.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agency</title>
+      <link>https://oss2022-opendz-org.github.io/fr/tags/agency/</link>
+      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
+      
+      <guid>https://oss2022-opendz-org.github.io/fr/tags/agency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://oss2022-opendz-org.github.io/fr/tags/blog/</link>
+      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
+      
+      <guid>https://oss2022-opendz-org.github.io/fr/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Help</title>
+      <link>https://oss2022-opendz-org.github.io/fr/tags/help/</link>
+      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
+      
+      <guid>https://oss2022-opendz-org.github.io/fr/tags/help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://oss2022-opendz-org.github.io/fr/tags/music/</link>
+      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
+      
+      <guid>https://oss2022-opendz-org.github.io/fr/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://oss2022-opendz-org.github.io/fr/tags/new/</link>
+      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
+      
+      <guid>https://oss2022-opendz-org.github.io/fr/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://oss2022-opendz-org.github.io/fr/tags/web/</link>
+      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
+      
+      <guid>https://oss2022-opendz-org.github.io/fr/tags/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
