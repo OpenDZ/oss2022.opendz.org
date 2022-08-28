@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Speakers on OSS 2022</title>
-    <link>https://oss2022-opendz-org.github.io/speaker/</link>
-    <description>Recent content in Speakers on OSS 2022</description>
+    <title>Speakers on Algeria Open Source &amp; Security Conference</title>
+    <link>https://oss2022.opendz.org/speaker/</link>
+    <description>Recent content in Speakers on Algeria Open Source &amp; Security Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://oss2022-opendz-org.github.io/speaker/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://oss2022.opendz.org/speaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andrew Kemnitz</title>
-      <link>https://oss2022-opendz-org.github.io/speaker/andrew-kemnitz/</link>
+      <link>https://oss2022.opendz.org/speaker/andrew-kemnitz/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/speaker/andrew-kemnitz/</guid>
+      <guid>https://oss2022.opendz.org/speaker/andrew-kemnitz/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Kemnitz Wagon</title>
-      <link>https://oss2022-opendz-org.github.io/speaker/kemnitz-wagon/</link>
+      <link>https://oss2022.opendz.org/speaker/kemnitz-wagon/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/speaker/kemnitz-wagon/</guid>
+      <guid>https://oss2022.opendz.org/speaker/kemnitz-wagon/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Marta Kemnitz</title>
-      <link>https://oss2022-opendz-org.github.io/speaker/marta-kemnitz/</link>
+      <link>https://oss2022.opendz.org/speaker/marta-kemnitz/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/speaker/marta-kemnitz/</guid>
+      <guid>https://oss2022.opendz.org/speaker/marta-kemnitz/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Martin Gptil</title>
-      <link>https://oss2022-opendz-org.github.io/speaker/martin-gptil/</link>
+      <link>https://oss2022.opendz.org/speaker/martin-gptil/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/speaker/martin-gptil/</guid>
+      <guid>https://oss2022.opendz.org/speaker/martin-gptil/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Mehedi Keil</title>
-      <link>https://oss2022-opendz-org.github.io/speaker/mehedi-keil/</link>
+      <link>https://oss2022.opendz.org/speaker/mehedi-keil/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/speaker/mehedi-keil/</guid>
+      <guid>https://oss2022.opendz.org/speaker/mehedi-keil/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>MJohn Doe</title>
-      <link>https://oss2022-opendz-org.github.io/speaker/mjohn-doe/</link>
+      <link>https://oss2022.opendz.org/speaker/mjohn-doe/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/speaker/mjohn-doe/</guid>
+      <guid>https://oss2022.opendz.org/speaker/mjohn-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

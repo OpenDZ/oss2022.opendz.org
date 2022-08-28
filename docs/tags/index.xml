@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on OSS 2022</title>
-    <link>https://oss2022-opendz-org.github.io/tags/</link>
-    <description>Recent content in Tags on OSS 2022</description>
+    <title>Tags on Algeria Open Source &amp; Security Conference</title>
+    <link>https://oss2022.opendz.org/tags/</link>
+    <description>Recent content in Tags on Algeria Open Source &amp; Security Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://oss2022-opendz-org.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://oss2022.opendz.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agency</title>
-      <link>https://oss2022-opendz-org.github.io/tags/agency/</link>
+      <link>https://oss2022.opendz.org/tags/agency/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/tags/agency/</guid>
+      <guid>https://oss2022.opendz.org/tags/agency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://oss2022-opendz-org.github.io/tags/blog/</link>
+      <link>https://oss2022.opendz.org/tags/blog/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/tags/blog/</guid>
+      <guid>https://oss2022.opendz.org/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Help</title>
-      <link>https://oss2022-opendz-org.github.io/tags/help/</link>
+      <link>https://oss2022.opendz.org/tags/help/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/tags/help/</guid>
+      <guid>https://oss2022.opendz.org/tags/help/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://oss2022-opendz-org.github.io/tags/music/</link>
+      <link>https://oss2022.opendz.org/tags/music/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/tags/music/</guid>
+      <guid>https://oss2022.opendz.org/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>https://oss2022-opendz-org.github.io/tags/new/</link>
+      <link>https://oss2022.opendz.org/tags/new/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/tags/new/</guid>
+      <guid>https://oss2022.opendz.org/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://oss2022-opendz-org.github.io/tags/web/</link>
+      <link>https://oss2022.opendz.org/tags/web/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://oss2022-opendz-org.github.io/tags/web/</guid>
+      <guid>https://oss2022.opendz.org/tags/web/</guid>
       <description></description>
     </item>
     
