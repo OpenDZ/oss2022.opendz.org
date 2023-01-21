@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Results on Algeria Open Source &amp; Security Conference</title>
-    <link>https://oss2022.opendz.org/search/</link>
+    <link>https://oss2023.opendz.org/search/</link>
     <description>Recent content in Search Results on Algeria Open Source &amp; Security Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2022 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Thu, 05 Sep 2019 15:24:04 +0600</lastBuildDate><atom:link href="https://oss2022.opendz.org/search/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2023 OpenDZ</copyright>
+    <lastBuildDate>Thu, 05 Sep 2019 15:24:04 +0600</lastBuildDate><atom:link href="https://oss2023.opendz.org/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
